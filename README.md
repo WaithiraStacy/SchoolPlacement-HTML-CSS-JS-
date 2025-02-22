@@ -31,6 +31,4 @@ Customization
 •	Additional validation checks or new categories can be added based on specific requirements.
 Author
 Developed by Stacy Kinyua for educational and placement automation purposes.
-License
-This project is open-source and can be modified or distributed for educational purposes.
 
